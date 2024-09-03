@@ -52,7 +52,7 @@ Before you begin, ensure you have met the following requirements:
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/AmilaWijesinghe/full-stack-estate.git
+git clone https://github.com/AmilaWijesinghe/real_estate_website.git
 cd real-estate-web-app
 ```
 
