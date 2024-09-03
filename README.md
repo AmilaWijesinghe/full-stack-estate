@@ -59,12 +59,12 @@ cd real-estate-web-app
 ### Install the dependencies:
 ```bash
 # For backend
-cd backend
+cd api
 npm install
 ```
 ```bash
 # For frontend
-cd frontend
+cd client
 npm install
 ```
 ### Set up environment variables:
